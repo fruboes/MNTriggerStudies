@@ -5,6 +5,8 @@ from ROOT import TStyle
 def setStyle():
    tdrStyle = ROOT.TStyle("tdrStyle","Style for P-TDR")
 
+   # this is the awesome CMS TDR ROOT style ! This is Good!
+
    # For the canvas:
    kWhite = 0
 
